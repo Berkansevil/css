@@ -1,0 +1,26 @@
+/*   acıklamaaa */
+h1{
+    color:red;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ h2{
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+ }
+ h3{
+    color:darkkhaki;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+body{
+   background-color: aquamarine;
+}
+ol>li>p{
+   color: red;
+   font-style: oblique;
+   font-family: 'Times New Roman', Times, serif;
+   
+}
